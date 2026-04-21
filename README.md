@@ -4,6 +4,7 @@ A simple image gallery application built with React. It fetches images from an A
 
 ## Preview
 
+<img width="1920" height="1080" alt="Preview" src="https://github.com/user-attachments/assets/d9f9d9a0-17f3-4500-b009-8dc860568762" />
 
 
 ## Features
