@@ -58,7 +58,7 @@ const App = () => {
 
       {/* Title */}
       <h1 className="text-xl font-semibold text-gray-800 mb-4">
-        📸 Gallery
+        📸  Gallery
       </h1>
 
       {/* Scrollable Gallery */}
